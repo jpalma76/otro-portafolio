@@ -34,6 +34,10 @@ body {
     display: flex;
     margin-top: 3rem;
     justify-content: space-between;
+    margin: 4rem;
+}
+.page-two {
+    margin-top: 4rem;
 }
 
 .foto {
@@ -75,7 +79,7 @@ footer {
     bottom: 0;
 }
 
-@media(max-width:1000px) {
+@media(max-width:1100px) {
     .page-one {
         flex-direction: column;
         gap: 20px;
