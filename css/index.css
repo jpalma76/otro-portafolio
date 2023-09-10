@@ -31,7 +31,6 @@ body {
 
 .page-one {
     width: 100%;
-    height: 480px;
     display: flex;
     margin-top: 3rem;
     justify-content: space-between;
@@ -63,7 +62,7 @@ body {
 .table-container {
     justify-content: center;
 }
-td {
+td, th {
     text-align: center;
 }
 
@@ -74,4 +73,12 @@ footer {
     justify-content: center;
     position: inherit;
     bottom: 0;
+}
+
+@media(max-width:1000px) {
+    .page-one {
+        flex-direction: column;
+        gap: 20px;
+        margin-bottom: 2rem;
+    }
 }
