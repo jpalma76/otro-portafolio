@@ -1,19 +1,20 @@
+/* API CONSTRUIDA CON JQUERY Y AJAX */
 const API_url = '../database/cursos.json'
 
 $.ajax({
     type: "GET",
     url: API_url,
     success: function (response) {
-        console.log(response);
         let cursos = response
         let template = ''
         cursos.forEach(curso => {
-            console.log(curso.name);
             template += `
                 <tr>
                     <td>${curso.id}</td>
                     <td>${curso.name}</td>
                     <td>${curso.platform}</td>
+                    <td><a href="${curso.url}"><img class="image" src="${curso.url}" /></a></td>
+                    
                 </tr>
             `
         });
