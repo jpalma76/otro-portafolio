@@ -8,7 +8,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
-
+.container {
+    width: 100%;
+    padding: 0;
+}
 .navbar {
     width: 100%;
     height: 100px;
@@ -25,20 +28,16 @@ body {
     text-align: center;
     margin-bottom: 2rem;
 }
-#inicio {
-    width: 100%;
-    height: 530px;
-}
 
 .page-one {
     width: 100%;
     display: flex;
-    margin-top: 3rem;
     justify-content: space-around;
     margin: 4rem;
 }
 .page-two, .page-three {
     margin-top: 4rem;
+    margin-bottom: 2rem;
 }
 
 .foto {
@@ -62,7 +61,7 @@ body {
     text-align: justify;
 }
 .presentation {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .table-container {
@@ -71,6 +70,7 @@ body {
 td, th {
     text-align: center;
 }
+
 .image {
     width: 70px;
     height: 50px;
@@ -106,7 +106,11 @@ footer {
         margin: 0;
         padding: 0;
     }
+    .footer p {
+        font-weight: bold;
+    }
 }
+
 
 
 @media(max-width:390px) {
