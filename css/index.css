@@ -166,8 +166,13 @@ footer {
         justify-content: center;
         padding: 10px;
     }
-    td, th {
-        text-align: center;
+    .table {
+        font-size: 14px;
+    }
+    tr, th, td{
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
     }
 
     footer {

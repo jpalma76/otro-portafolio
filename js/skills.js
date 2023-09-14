@@ -6,15 +6,15 @@ fetch(url)
 .then(data => {
     console.log(data);
     
-    let insert = document.getElementById('info-skills')
-    data.map((skill) => {
-        insert.innerHTML += `
-            <tr>
-                <td>${skill.id}</td>
-                <td>${skill.name}</td>
-                <td>${skill.platform}</td>
-                <td><a href="${skill.url}"><img class="image" src="${skill.url}" /></a></td>
-            </tr>
+let insert = document.getElementById('info-skills')
+data.map((skill) => {
+    insert.innerHTML += `
+        <tr>
+            <td>${skill.id}</td>
+            <td>${skill.name}</td>
+            <td>${skill.platform}</td>
+            <td><a href="${skill.url}"><img class="image" src="${skill.url}" /></a></td>
+        </tr>
             `
-        })
     })
+})
