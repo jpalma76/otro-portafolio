@@ -125,14 +125,14 @@
 
     {
         "id": 18,
-        "name": "curso prework linux: Configuracion de entorno de desarrollo en linux",
+        "name": "curso prework Linux: Configuracion de entorno de desarrollo en linux",
         "platform": "Platzi",
         "image": "./img-certificados/curso_prework_linux.png",
         "url": "./img-certificados/curso_prework_linux.png"
     },
     {
         "id": 19,
-        "name": "curso prework: configuracion de entorno de desarrollo en windows",
+        "name": "curso prework Windows: configuracion de entorno de desarrollo en windows",
         "platform": "Platzi",
         "image": "./img-certificados/curso_prework_windows.png",
         "url": "./img-certificados/curso_prework_windows.png"
