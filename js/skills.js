@@ -4,10 +4,9 @@ const url = '../database/skills.json'
 fetch(url)
 .then(response => response.json())
 .then(data => {
-    console.log(data);
     
-let insert = document.getElementById('info-skills')
-data.map((skill) => {
+    let insert = document.getElementById('info-skills')
+    data.map((skill) => {
     insert.innerHTML += `
         <tr>
             <td>${skill.id}</td>
