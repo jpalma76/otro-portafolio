@@ -12,7 +12,6 @@ fetch(url)
             <td>${skill.id}</td>
             <td>${skill.name}</td>
             <td>${skill.platform}</td>
-            <td><a href="${skill.url}"><img class="image" src="${skill.url}" /></a></td>
         </tr>
             `
     })

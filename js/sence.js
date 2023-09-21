@@ -12,7 +12,6 @@ fetch(url_sence)
             <td>${curso.id}</td>
             <td>${curso.name}</td>
             <td>${curso.platform}</td>
-            <td><a href="${curso.url}"><img class="image" src="${curso.url}" /></a></td>
         </tr>
             `
     })
