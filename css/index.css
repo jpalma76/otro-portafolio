@@ -7,7 +7,7 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(222, 220, 220);
-
+    color: grey;
 }
 .navbar {
     display: flex;
@@ -26,6 +26,7 @@ h2 {
     font-size: 2rem;
     margin-bottom: 20px;
 }
+
 .image-container {
     width: 100%;
     display: flex;
@@ -40,7 +41,7 @@ h2 {
     width: 250px;
     height: 290px;
     border-radius: 50% ;
-    border: double 5px blue;
+    border: double 5px black;
 }
 
 .table {
@@ -72,6 +73,37 @@ td {
     align-items: center;
     width: 100%;
     padding: 20px;
+    margin-bottom: 20px;
+}
+.page-five {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    padding: 40px;
+    gap: 20px;
+   margin-bottom: 20px;
+}
+
+.card {
+    width: 300px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: rgb(66, 86, 152);
+    color: white;
+    padding: 10px;
+}
+.card-header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 30px;
+}
+.image-card {
+    width: 250px;
+    height: 210px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: outset 5px;
+    border-radius: 5px;
 }
 
 .footer {
@@ -84,4 +116,13 @@ td {
     background-color: rgb(117, 118, 123);
     color: white;
     font-weight: bold;
+}
+
+@media(max-width:600px) {
+    .page-five {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
 }
