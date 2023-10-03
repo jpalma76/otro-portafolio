@@ -72,9 +72,8 @@ th, td {
 }
 
 .page-one p{
-    max-width: 700px;
+    max-width: 90%;
     text-align: justify;
-    margin: 20px;
 }
 
 .page-one, .page-two, .page-three, .page-four {
@@ -82,7 +81,7 @@ th, td {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     margin-bottom: 20px;
     box-sizing: border-box;
@@ -140,7 +139,7 @@ th, td {
 
 @media(max-width:600px) {
     .container {
-        padding: 40px;
+        padding: 30px;
     }
     .title {
         font-size: 2.5rem;
@@ -153,7 +152,7 @@ th, td {
         justify-content: center;
     }
     .card {
-        width: 90%;
+        width: 95%;
     }
     .card-header {
         width: 100%;
