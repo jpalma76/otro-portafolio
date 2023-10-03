@@ -24,7 +24,8 @@ h1 {
 }
 h2 {
     font-size: 2rem;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .container {
     display: flex;
@@ -82,15 +83,14 @@ th, td {
     justify-content: center;
     align-items: center;
     width: 100%;
-    margin: 0 auto;
-    margin-bottom: 20px;
+    margin: 30px auto;
     box-sizing: border-box;
 }
 .page-five {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
     gap: 20px;
-    margin-bottom: 20px;
+    margin: 40px;
 }
 
 .card {
@@ -139,7 +139,7 @@ th, td {
 
 @media(max-width:600px) {
     .container {
-        padding: 30px;
+        padding: 20px;
     }
     .title {
         font-size: 2.5rem;
@@ -150,15 +150,16 @@ th, td {
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        margin: 0;
     }
     .card {
-        width: 95%;
+        width: 90%;
     }
     .card-header {
         width: 100%;
         height: 60px;
     }
-    .subtitle {
+    h2 {
         font-size: 1.5rem;
     }
     h4 {
