@@ -1,4 +1,5 @@
-/* API CONSTUIDA CON MAP */
+/* API CONSTUIDA CON MAP
+   capacitaciones telecomunicaciones */
 const url = '../database/skills.json'
 
 fetch(url)

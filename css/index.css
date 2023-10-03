@@ -20,7 +20,7 @@ body {
     border-bottom: 2px solid;
 }
 h1 {
-    font-size: 3.5rem;
+    font-size: 3rem;
 }
 h2 {
     font-size: 2rem;
@@ -34,8 +34,19 @@ h2 {
     margin-top: 30px;
     margin-bottom: 20px;
 }
+.download-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    height: 50px;
+    border: 3px solid blue;
+    background-color: #fff;
+    border-radius: 7px;
+}
 #curriculum {
     text-decoration: none;
+    font-weight: bold;
 }
 #foto-mia {
     width: 250px;
@@ -77,14 +88,15 @@ td {
 }
 .page-five {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    padding: 40px;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    padding: 50px;
     gap: 20px;
+    margin: 0 auto;
    margin-bottom: 20px;
 }
 
 .card {
-    width: 300px;
+    width: 290px;
     border: 2px solid;
     border-radius: 10px;
     background-color: rgb(66, 86, 152);
@@ -94,8 +106,9 @@ td {
 .card-header {
     display: flex;
     justify-content: center;
-    align-content: center;
-    height: 30px;
+    align-items: center;
+    height:60px;
+    padding: 5px;
 }
 .image-card {
     width: 250px;
@@ -104,6 +117,14 @@ td {
     margin-right: 10px;
     border: outset 5px;
     border-radius: 5px;
+}
+.card-tex--container {
+    display: flex;
+    width: auto;
+    height: 70px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer {
@@ -119,10 +140,36 @@ td {
 }
 
 @media(max-width:600px) {
+    .title {
+        font-size: 2.5rem;
+    }
     .page-five {
+        width: 100%;
         display: flex;
         flex-direction: column;
+        margin: 0;
+        padding: 0;
         align-items: center;
+        justify-content: center;
     }
-    
+    .card {
+        width: 90%;
+    }
+    .card-header {
+        width: 100%;
+        height: 60px;
+    }
+    .subtitle {
+        font-size: 1.5rem;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    .image-card {
+        width: 80%;
+        height: 230px;
+    }
+    .card-tex--container {
+        height: 50px;
+    }
 }

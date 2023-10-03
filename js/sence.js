@@ -1,4 +1,5 @@
-/* API CONSTUIDA CON MAP */
+/* API CONSTUIDA CON MAP
+   otras capacitaciones vigilante privado y sodimac */
 const url_sence = '../database/sence.json'
 
 fetch(url_sence)
