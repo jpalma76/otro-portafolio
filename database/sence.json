@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Curso de Vigilante Privado, Técnicas de Vigilancia y Protección de Instalaciones",
+        "platform": "Sence",
+        "image": "./img-certificados/curso-vp/curso-vigilante-privado.png",
+        "url": "./img-certificados/curso-vp/curso-vigilante-privado.png"
+    },
+    {
+        "id": 2,
+        "name": "Venta de Proyectos",
+        "platform": "Sence",
+        "image": "../img-certificados/sodimac/venta-de-proyectos.png",
+        "url": "../img-certificados/sodimac/venta-de-proyectos.png"
+    },
+    {
+        "id": 3,
+        "name": "Aplicando los productos de obra gruesa en la venta de proyectos",
+        "platform": "Sence",
+        "image": "../img-certificados/sodimac/aplicando-los-productos-de-obra-gruesa-en-la-venta-de-proyectos-de-construccion.png",
+        "url": "../img-certificados/sodimac/aplicando-los-productos-de-obra-gruesa-en-la-venta-de-proyectos-de-construccion.png"
+    },
+    {
+        "id": 4,
+        "name": "Aplicando los productos de gasfiteria a la venta de proyectos",
+        "platform": "Sence",
+        "image": "../img-certificados/sodimac/aplicando-los-productos-de-gasfiteria-en-la-venta-de-proyectos.png",
+        "url": "../img-certificados/sodimac/aplicando-los-productos-de-gasfiteria-en-la-venta-de-proyectos.png"
+    },
+    {
+        "id": 5,
+        "name": "Aplicando los productos de elctricidad electrónica y comunicaciones en la venta de proyectos",
+        "platform": "Sence",
+        "image": "../img-certificados/sodimac/aplicando-los-productos-de-electricidad-electronica-y-comunicacion-en-la-venta-de-proyectos.png",
+        "url": "../img-certificados/sodimac/aplicando-los-productos-de-electricidad-electronica-y-comunicacion-en-la-venta-de-proyectos.png"
+    },
+    {
+        "id": 6,
+        "name": "Identificando las características de las herramientas de Sódimac",
+        "platform": "Sence",
+        "image": "../img-certificados/sodimac/identificando-las-caracteristicas-de-las-herramientas-de-sodimac.png",
+        "url": "../img-certificados/sodimac/identificando-las-caracteristicas-de-las-herramientas-de-sodimac.png"
+    },
+    {
+        "id": 7,
+        "name": "Identificando los productos del área de Ferretería en Sódimac",
+        "platform": "Sence",
+        "image": "../img-certificados/sodimac/identificando-los-productos-del-area-ferreteria-en-sodimac.png",
+        "url": "../img-certificados/sodimac/identificando-los-productos-del-area-ferreteria-en-sodimac.png"
+    },
+    {
+        "id": 8,
+        "name": "Identificando y aplicando productos del area Pinturas",
+        "platform": "Sence",
+        "image": "../img-certificados/sodimac/identificando-y-aplicando-productos-del-area-pinturas.png",
+        "url": "../img-certificados/sodimac/identificando-y-aplicando-productos-del-area-pinturas.png"
+    }
+]
