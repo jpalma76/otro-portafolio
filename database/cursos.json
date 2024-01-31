@@ -3,152 +3,143 @@
     {
         "id": 1,
         "name": "Curso Programación Basica",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_programacion_basica.png",
-        "url": "./img-certificados/curso_programacion_basica.png"
+        "url": "./img-certificados/curso_programacion_basica.png",
+        "platform": "Platzi"
     },
     {
         "id": 2,
         "name": "Curso Básico de C#, Fundamentos Variables y Operadores",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_basico_de_c_charp_fundamentos_variables_y_operadores.png",
-        "url": "./img-certificados/curso_basico_de_c_charp_fundamentos_variables_y_operadores.png"
+        "url": "./img-certificados/curso_basico_de_c_charp_fundamentos_variables_y_operadores.png",
+        "platform": "Platzi"
     },
     {
         "id": 3,
         "name": "Curso Básico de JavaScript",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_basico_de_javascript.png",
-        "url": "./img-certificados/curso_basico_de_javascript.png"
+        "url": "./img-certificados/curso_basico_de_javascript.png",
+        "platform": "Platzi"
     },
 
     {
         "id": 4,
         "name": "curso de frontend developer",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_frontend_developer.png",
-        "url": "./img-certificados/curso_frontend_developer.png"
+        "url": "./img-certificados/curso_frontend_developer.png",
+        "platform": "Platzi"
     },
     {
         "id": 5,
         "name": "curso practico de frontend developer",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_frontend_developer_practico.png",
-        "url": "./img-certificados/curso_frontend_developer_practico.png"
+        "url": "./img-certificados/curso_frontend_developer_practico.png",
+        "platform": "Platzi"
     },
     {
         "id": 6,
-        "name": "Curso prácticode HTML y CSS",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_html_css_practico.png",
-        "url": "./img-certificados/curso_html_css_practico.png"
+        "name": "curso html y css practico",
+        "url": "./img-certificados/curso_html_css_practico.png",
+        "platform": "Platzi"
 
     },
     {
         "id": 7,
         "name": "curso de fundamentos de punto net",
-        "platform": "Platzi",
-        "image": "./img-certificados/Curso_fundamentos_de_punto_net.png",
-        "url": "./img-certificados/Curso_fundamentos_de_punto_net.png"
+        "url": "./img-certificados/Curso_fundamentos_de_punto_net.png",
+        "platform": "Platzi"
     },
     {
         "id": 8,
         "name": "curso definitivo html y css",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_html_css_definitivo.png",
-        "url": "./img-certificados/curso_html_css_definitivo.png"
+        "url": "./img-certificados/curso_html_css_definitivo.png",
+        "platform": "Platzi"
     },
     {
         "id": 9,
         "name": "curso de introduccion a platzi",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_introduccion_a_platzi.png",
-        "url": "./img-certificados/curso_introduccion_a_platzi.png"
+        "url": "./img-certificados/curso_introduccion_a_platzi.png",
+        "platform": "Platzi"
     },
 
     {
         "id": 10,
         "name": "curso introduccion al desarrollo backend",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_introduccion_al_desarrollo_backend.png",
-        "url": "./img-certificados/curso_introduccion_al_desarrollo_backend.png"
+        "url": "./img-certificados/curso_introduccion_al_desarrollo_backend.png",
+        "platform": "Platzi"
     },
     {
         "id": 11,
-        "name": "curso javascript nivel 1",
-        "platform": "Porgrama Jóvenes Programadores",
-        "image": "./img-certificados/curso_javascript_nivel1.png",
-        "url": "./img-certificados/curso_javascript_nivel1.png"
+        "name": "curso npm gestion de paquetes y dependencias en javascript",
+        "url": "./img-certificados/curso_npm_gestion_de_paquetes_y_dependencias_en_javascript.png",
+        "platform": "Platzi"
     },
     {
         "id": 12,
-        "name": "curso javascript nivel 2",
-        "platform": "Porgrama Jóvenes Programadores",
-        "image": "./img-certificados/curso_javascript_nivel2.png",
-        "url": "./img-certificados/curso_javascript_nivel2.png"
+        "name": "curso pensamiento logico de lenguajes de programación",
+        "url": "./img-certificados/curso_pensamiento_logico_lenguajes_de_programacion.png",
+        "platform": "Platzi"
     },
     {
         "id": 13,
-        "name": "Curso PHP nivel 1",
-        "platform": "Porgrama Jóvenes Programadores",
-        "image": "./img-certificados/curso_php_jovenes_programadores.png",
-        "url": "./img-certificados/curso_php_jovenes_programadores.png"
+        "name": "curso de php instalacion fundamentos y operaciones basico",
+        "url": "./img-certificados/curso_php_instalacion_fundamentos_y_operaciones_basico.png",
+        "platform": "Platzi"
     },
     {
         "id": 14,
-        "name": "Curso de CSS",
-        "platform": "Porgrama Jóvenes Programadores",
-        "image": "./img-certificados/curso_css_jovenesprogramadores.png",
-        "url": "./img-certificados/curso_css_jovenesprogramadores.png"
+        "name": "curso practico de php",
+        "url": "./img-certificados/curso_practico_php.png",
+        "platform": "Platzi"
+    },
+    {
+        "id": 15,
+        "name": "curso  integracion de php y html",
+        "url": "./img-certificados/curso_de_integracion_de_php_con_html.png",
+        "platform": "Platzi"
     },
 
     {
-        "id": 15,
-        "name": "curso npm gestion de paquetes y dependencias en javascript",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_npm_gestion_de_paquetes_y_dependencias_en_javascript.png",
-        "url": "./img-certificados/curso_npm_gestion_de_paquetes_y_dependencias_en_javascript.png"
-    },
-    {
         "id": 16,
-        "name": "curso pensamiento logico de lenguajes de programación",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_pensamiento_logico_lenguajes_de_programacion.png",
-        "url": "./img-certificados/curso_pensamiento_logico_lenguajes_de_programacion.png"
+        "name": "curso prework linux: Configuracion de entorno de desarrollo en linux",
+        "url": "./img-certificados/curso_prework_linux.png",
+        "platform": "Platzi"
     },
     {
         "id": 17,
-        "name": "curso de php instalacion fundamentos y operaciones basico",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_php_instalacion_fundamentos_y_operaciones_basico.png",
-        "url": "./img-certificados/curso_php_instalacion_fundamentos_y_operaciones_basico.png"
+        "name": "curso prework: configuracion de entorno de desarrollo en windows",
+        "url": "./img-certificados/curso_prework_windows.png",
+        "platform": "Platzi"
     },
     {
         "id": 18,
-        "name": "curso practico de php",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_practico_php.png",
-        "url": "./img-certificados/curso_practico_php.png"
+        "name": "curso javascript nivel 1 - Jóvenes Programadores",
+        "url": "./img-certificados/curso_javascript_nivel1.png",
+        "platform": "JóvenesProgramadores"
     },
     {
         "id": 19,
-        "name": "curso  integracion de php y html",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_de_integracion_de_php_con_html.png",
-        "url": "./img-certificados/curso_de_integracion_de_php_con_html.png"
+        "name": "curso javascript nivel 2 - Jóvenes Programadores",
+        "url": "./img-certificados/curso_javascript_nivel2.png",
+        "platform": "JóvenesProgramadores"
     },
     {
         "id": 20,
-        "name": "curso prework Linux: Configuracion de entorno de desarrollo en linux",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_prework_linux.png",
-        "url": "./img-certificados/curso_prework_linux.png"
+        "name": "Curso PHP nivel 1 - Jóvenes Programadores",
+        "url": "./img-certificados/curso_php_jovenes_programadores.png",
+        "platform": "JóvenesProgramadores"
     },
     {
         "id": 21,
-        "name": "curso prework Windows: configuracion de entorno de desarrollo en windows",
-        "platform": "Platzi",
-        "image": "./img-certificados/curso_prework_windows.png",
-        "url": "./img-certificados/curso_prework_windows.png"
+        "name": "Curso CSS - Jóvenes Programadores",
+        "url": "./img-certificados/curso_css_jovenesprogramadores.png",
+        "platform": "JóvenesProgramadores"
+    },
+    {
+        "id": 22,
+        "name": "Curso Introducción a Python - Jóvenes Programadores",
+        "url": "./img-certificados/curso-introduccion-a-python.png",
+        "platform": "JóvenesProgramadores"
+    },
+    {
+        "id": 23,
+        "name": "Curso de React - Jóvenes Programadores",
+        "url": "./img-certificados/curso-de-react.png",
+        "platform": "JóvenesProgramadores"
     }
 ]
